@@ -1,0 +1,101 @@
+id_estudiante,carrera,modalidad,edad,nota_final,horas_estudio,asistencia,aprobado,comentario
+1,Tecnologías de la Información,En línea,38,48.1,7,69,0,No entiendo algunos temas y necesito más ejemplos.
+2,Computación,En línea,25,59.7,12,58,0,Me cuesta seguir las explicaciones y practicar.
+3,Computación,Presencial,41,79.0,15,86,1,Me falta tiempo para repasar los conceptos de programación.
+4,Redes,Presencial,45,68.1,8,68,0,Necesito apoyo para organizar mi tiempo de estudio.
+5,Computación,En línea,28,83.9,17,67,1,Las explicaciones son claras y puedo resolver los ejercicios.
+6,Redes,En línea,33,66.3,4,56,0,Me cuesta seguir las explicaciones y practicar.
+7,Analítica de Datos,En línea,28,54.7,2,64,0,Necesito apoyo para organizar mi tiempo de estudio.
+8,Computación,Presencial,40,88.0,20,93,1,Comprendo las actividades y disfruto practicar programación.
+9,Computación,Presencial,32,68.4,18,58,0,No entiendo algunos temas y necesito más ejemplos.
+10,Tecnologías de la Información,Presencial,38,,19,65,,Comprendo algunos temas pero necesito practicar más.
+11,Tecnologías de la Información,Presencial,41,53.1,3,50,0,Tengo dificultades para comprender los ejercicios.
+12,Tecnologías de la Información,Presencial,41,73.0,10,67,1,Tengo dudas en ciertos ejercicios y necesito orientación.
+13,Tecnologías de la Información,Presencial,42,87.8,11,98,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+14,Computación,Presencial,18,79.7,20,68,1,Comprendo algunos temas pero necesito practicar más.
+15,Redes,Presencial,18,74.8,9,48,1,Comprendo algunos temas pero necesito practicar más.
+16,Analítica de Datos,En línea,32,74.1,9,64,1,Me falta tiempo para repasar los conceptos de programación.
+17,Redes,En línea,38,60.4,9,52,0,Me cuesta seguir las explicaciones y practicar.
+18,Tecnologías de la Información,Presencial,31,86.0,20,69,1,Las explicaciones son claras y puedo resolver los ejercicios.
+19,Tecnologías de la Información,Presencial,22,58.2,1,78,0,No entiendo algunos temas y necesito más ejemplos.
+20,Redes,Presencial,21,66.3,13,54,0,Me cuesta seguir las explicaciones y practicar.
+21,Tecnologías de la Información,En línea,40,91.3,18,52,1,Me siento motivado y organizo bien mis actividades.
+22,Tecnologías de la Información,En línea,44,78.2,3,92,1,Los ejemplos me ayudan aunque algunos temas son difíciles.
+23,Redes,En línea,33,60.9,14,64,0,Me cuesta seguir las explicaciones y practicar.
+24,Computación,Presencial,43,59.8,1,58,0,Necesito apoyo para organizar mi tiempo de estudio.
+25,Analítica de Datos,En línea,20,,12,48,,Comprendo algunos temas pero necesito practicar más.
+26,Computación,En línea,28,64.6,2,86,0,Necesito apoyo para organizar mi tiempo de estudio.
+27,Tecnologías de la Información,En línea,26,90.9,4,58,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+28,Computación,En línea,20,92.3,18,78,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+29,Tecnologías de la Información,En línea,34,58.0,20,61,0,Necesito apoyo para organizar mi tiempo de estudio.
+30,Computación,Presencial,44,65.8,11,82,0,No entiendo algunos temas y necesito más ejemplos.
+31,Computación,En línea,36,84.3,18,55,1,Las explicaciones son claras y puedo resolver los ejercicios.
+32,Redes,Presencial,28,62.8,3,82,0,Necesito apoyo para organizar mi tiempo de estudio.
+33,Computación,Presencial,29,96.1,15,60,1,Las explicaciones son claras y puedo resolver los ejercicios.
+34,Redes,Presencial,23,65.7,17,55,0,Tengo dificultades para comprender los ejercicios.
+35,Analítica de Datos,Presencial,37,96.5,16,92,1,Las explicaciones son claras y puedo resolver los ejercicios.
+36,Redes,En línea,40,97.7,20,68,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+37,Computación,Presencial,41,87.4,19,81,1,Comprendo las actividades y disfruto practicar programación.
+38,Computación,En línea,24,79.1,1,73,1,Me falta tiempo para repasar los conceptos de programación.
+39,Tecnologías de la Información,Presencial,37,75.6,7,88,1,Comprendo algunos temas pero necesito practicar más.
+40,Redes,Presencial,20,66.4,14,55,0,Me cuesta seguir las explicaciones y practicar.
+41,Computación,Presencial,30,64.7,17,48,0,Tengo dificultades para comprender los ejercicios.
+42,Analítica de Datos,Presencial,45,64.9,12,65,0,Necesito apoyo para organizar mi tiempo de estudio.
+43,Redes,Presencial,18,89.9,13,82,1,Me siento motivado y organizo bien mis actividades.
+44,Redes,Presencial,37,89.0,9,80,1,Comprendo las actividades y disfruto practicar programación.
+45,Tecnologías de la Información,En línea,18,47.4,1,97,0,Tengo dificultades para comprender los ejercicios.
+46,Analítica de Datos,Presencial,20,78.5,1,83,1,Los ejemplos me ayudan aunque algunos temas son difíciles.
+47,Tecnologías de la Información,En línea,33,85.6,15,51,1,Las explicaciones son claras y puedo resolver los ejercicios.
+48,Computación,En línea,39,84.8,15,96,1,Me siento motivado y organizo bien mis actividades.
+49,Analítica de Datos,Presencial,21,68.6,3,88,0,Necesito apoyo para organizar mi tiempo de estudio.
+50,Computación,En línea,21,76.1,11,55,1,Tengo dudas en ciertos ejercicios y necesito orientación.
+51,Computación,En línea,41,88.5,17,84,1,Comprendo las actividades y disfruto practicar programación.
+52,Tecnologías de la Información,Presencial,18,71.6,9,54,1,Los ejemplos me ayudan aunque algunos temas son difíciles.
+53,Tecnologías de la Información,En línea,39,68.2,5,71,0,Me cuesta seguir las explicaciones y practicar.
+54,Tecnologías de la Información,En línea,41,81.6,17,81,1,Las explicaciones son claras y puedo resolver los ejercicios.
+55,Redes,En línea,20,64.1,2,57,0,No entiendo algunos temas y necesito más ejemplos.
+56,Computación,En línea,45,89.8,11,81,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+57,Computación,Presencial,24,48.6,10,48,0,Necesito apoyo para organizar mi tiempo de estudio.
+58,Analítica de Datos,Presencial,39,91.8,17,60,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+59,Analítica de Datos,Presencial,29,87.5,20,51,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+60,Computación,Presencial,26,87.3,19,96,1,Me siento motivado y organizo bien mis actividades.
+61,Tecnologías de la Información,En línea,21,100.0,19,69,1,Las explicaciones son claras y puedo resolver los ejercicios.
+62,Tecnologías de la Información,En línea,22,77.1,5,88,1,Me falta tiempo para repasar los conceptos de programación.
+63,Analítica de Datos,Presencial,41,58.5,4,53,0,Tengo dificultades para comprender los ejercicios.
+64,Analítica de Datos,Presencial,36,87.6,11,60,1,Las explicaciones son claras y puedo resolver los ejercicios.
+65,Tecnologías de la Información,Presencial,23,58.1,5,48,0,Me cuesta seguir las explicaciones y practicar.
+66,Analítica de Datos,En línea,33,79.2,9,72,1,Los ejemplos me ayudan aunque algunos temas son difíciles.
+67,Redes,Presencial,29,96.5,19,66,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+68,Computación,Presencial,26,69.1,17,48,0,Me cuesta seguir las explicaciones y practicar.
+69,Redes,En línea,42,71.2,13,62,1,Me falta tiempo para repasar los conceptos de programación.
+70,Analítica de Datos,Presencial,42,33.9,2,52,0,Me cuesta seguir las explicaciones y practicar.
+71,Redes,Presencial,20,82.6,18,50,1,Estudio con regularidad y me ayuda practicar con ejemplos.
+72,Computación,En línea,40,79.4,17,53,1,Me falta tiempo para repasar los conceptos de programación.
+73,Redes,En línea,22,76.0,17,48,1,Tengo dudas en ciertos ejercicios y necesito orientación.
+74,Tecnologías de la Información,En línea,31,76.2,13,96,1,Comprendo algunos temas pero necesito practicar más.
+75,Redes,Presencial,25,66.9,13,49,0,Me cuesta seguir las explicaciones y practicar.
+76,Analítica de Datos,En línea,25,94.8,12,73,1,Comprendo las actividades y disfruto practicar programación.
+77,Computación,En línea,42,91.0,7,90,1,Comprendo las actividades y disfruto practicar programación.
+78,Redes,En línea,29,79.3,8,96,1,Tengo dudas en ciertos ejercicios y necesito orientación.
+79,Tecnologías de la Información,En línea,32,45.6,1,51,0,Me cuesta seguir las explicaciones y practicar.
+80,Tecnologías de la Información,En línea,33,79.1,15,75,1,Me falta tiempo para repasar los conceptos de programación.
+81,Analítica de Datos,Presencial,40,85.1,19,68,1,Las explicaciones son claras y puedo resolver los ejercicios.
+82,Computación,En línea,22,90.0,18,83,1,Me siento motivado y organizo bien mis actividades.
+83,Analítica de Datos,En línea,34,71.7,9,88,1,Los ejemplos me ayudan aunque algunos temas son difíciles.
+84,Analítica de Datos,Presencial,43,86.9,17,82,1,Las explicaciones son claras y puedo resolver los ejercicios.
+85,Analítica de Datos,En línea,33,75.7,12,77,1,Los ejemplos me ayudan aunque algunos temas son difíciles.
+86,Computación,Presencial,25,69.3,9,100,0,Me cuesta seguir las explicaciones y practicar.
+87,Analítica de Datos,En línea,19,80.2,12,59,1,Me siento motivado y organizo bien mis actividades.
+88,Computación,En línea,32,62.9,8,61,0,Necesito apoyo para organizar mi tiempo de estudio.
+89,Analítica de Datos,Presencial,32,43.4,4,62,0,Me cuesta seguir las explicaciones y practicar.
+90,Computación,Presencial,33,61.2,7,71,0,No entiendo algunos temas y necesito más ejemplos.
+91,Tecnologías de la Información,En línea,32,35.1,4,50,0,Tengo dificultades para comprender los ejercicios.
+92,Redes,Presencial,31,77.4,9,82,1,Me falta tiempo para repasar los conceptos de programación.
+93,Redes,En línea,29,63.1,9,88,0,Necesito apoyo para organizar mi tiempo de estudio.
+94,Computación,En línea,25,,3,72,,Los ejemplos me ayudan aunque algunos temas son difíciles.
+95,Redes,En línea,29,61.6,12,52,0,Tengo dificultades para comprender los ejercicios.
+96,Tecnologías de la Información,Presencial,23,79.9,19,53,1,Me falta tiempo para repasar los conceptos de programación.
+97,Tecnologías de la Información,En línea,31,100.0,15,77,1,Comprendo las actividades y disfruto practicar programación.
+98,Analítica de Datos,Presencial,20,72.2,15,72,1,Tengo dudas en ciertos ejercicios y necesito orientación.
+99,Tecnologías de la Información,En línea,28,100.0,18,100,1,Comprendo las actividades y disfruto practicar programación.
+100,Tecnologías de la Información,En línea,23,89.7,20,79,1,Comprendo las actividades y disfruto practicar programación.
